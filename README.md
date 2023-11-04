@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Love working with data at all levels, automating tasks, and leveraging modern technologies. Discovered programming through machine learning and artificial intelligence projects. Now working towards a degree in Business Analytics and Information Technology.
+
 <!--
 **Joseph-Roman/Joseph-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
